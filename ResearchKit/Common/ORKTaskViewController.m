@@ -39,7 +39,7 @@
 #import "ORKStepViewController_Internal.h"
 #import "ORKTappingIntervalStepViewController.h"
 #import "ORKTaskViewController_Internal.h"
-#import "ORKVisualConsentStepViewController.h"
+//#import "ORKVisualConsentStepViewController.h"
 
 #import "ORKActiveStep.h"
 #import "ORKCollectionResult_Private.h"
@@ -51,7 +51,7 @@
 #import "ORKReviewStep_Internal.h"
 #import "ORKStep_Private.h"
 #import "ORKTappingIntervalStep.h"
-#import "ORKVisualConsentStep.h"
+//#import "ORKVisualConsentStep.h"
 
 #import "ORKHelpers_Internal.h"
 #import "ORKObserver.h"
